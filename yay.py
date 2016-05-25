@@ -1,1 +1,1 @@
-from LSD import DB
+from lsd import DB
